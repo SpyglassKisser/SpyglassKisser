@@ -1,4 +1,4 @@
-## Hi there 👋
+![Image](https://github.com/user-attachments/assets/ddabffe4-331c-4ff9-9c5c-2c8c62973584)
 
 <!--
 **SpyglassKisser/SpyglassKisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
